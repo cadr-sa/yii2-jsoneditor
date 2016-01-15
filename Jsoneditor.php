@@ -1,6 +1,6 @@
 <?php
 
-namespace devgroup\jsoneditor;
+namespace cadr-sa\jsoneditor;
 
 use yii\helpers\BaseInflector;
 use yii\helpers\Html;
