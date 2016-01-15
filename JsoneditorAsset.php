@@ -1,6 +1,6 @@
 <?php
 
-namespace cadr-sa\jsoneditor;
+namespace cadrsa\jsoneditor;
 
 use yii\web\AssetBundle;
 
