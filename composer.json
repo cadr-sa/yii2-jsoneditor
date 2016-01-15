@@ -1,5 +1,5 @@
 {
-    "name": "devgroup/yii2-jsoneditor",
+    "name": "cadr-sa/yii2-jsoneditor",
     "description": "Yii2 jsoneditor widget",
     "type": "yii2-extension",
     "keywords": ["yii2","json","jsoneditor","editor"],
@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "devgroup\\jsoneditor\\": ""
+            "cadr-sa\\jsoneditor\\": ""
         }
     }
 }
